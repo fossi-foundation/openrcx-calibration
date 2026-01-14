@@ -1,7 +1,8 @@
 # OpenRCX Calibration Using Open Source Tools
 
-This repository includes data and methods used to generate OpenRCX technology files using [spef_extractor](https://github.com/Cloud-V/SPEF_EXTRACTOR), [Magic VLSI](http://opencircuitdesign.com/magic/index.html) and data from [SkyWater-PDK](https://github.com/google/skywater-pdk) repository.
+This repository includes scripts used to generate OpenRCX technology files using [Magic VLSI](http://opencircuitdesign.com/magic/index.html).
 
+The following PDKs are currently supported: sky130, gf180mcu and ihp-sg13.
 
 ## Start Here
 
